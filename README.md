@@ -162,3 +162,6 @@ POST https://brief-thousands-sunset-9fcb1c78-485f-4967-ac042759a8fa1462.mastra.c
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Screenshot
+<img width="1859" height="1018" alt="Screenshot 2025-09-26 140303" src="https://github.com/user-attachments/assets/e8330cf7-0a4d-4688-a937-bf580577373e" />
